@@ -30,6 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src='https://giphy.com/gifs/srYjbV0T8bB9oWt0vV' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->

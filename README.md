@@ -1,4 +1,4 @@
-# Web Development Project 4 - *Veni Vici*
+# Web Development Project 4 - *Pokemon Go*
 
 Submitted by: **Tung Nguyen**
 
